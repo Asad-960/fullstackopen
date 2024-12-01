@@ -1,0 +1,10 @@
+.displayMessage {
+    border: 1.5px solid green;
+    padding:5px;
+    font-size: 24px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-bottom: 10px;
+    background-color: rgb(192, 184, 184);
+    color:green;
+
+}
